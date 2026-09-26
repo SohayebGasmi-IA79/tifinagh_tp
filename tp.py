@@ -1,6 +1,6 @@
 """
 TP - Classification des Caractères Tifinagh avec un Réseau de Neurones Multiclasses (MLP)
-Pr. M. BENADDY - Masters IMSD & IAA - 2024-2025
+
 
 Version complète  :
   - Régularisation L2
